@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @errias
 - 👀 I’m interested in C#, python
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java
 - 📫 You can reach me on discord: errias#6612
