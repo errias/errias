@@ -6,9 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <style>
-    body{
-        text-align: center;
-    }
 </style>
 <body>
     <h1>Hello! Im @errias</h1>
